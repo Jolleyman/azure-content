@@ -219,7 +219,7 @@ If the gateway subnet is /27 or larger and the virtual network is connected via 
 		        </Gateway>
 
 6. At this point, you'll have a VNet with no gateways. To create new gateways and complete your connections, you can proceed with [Step 4 - Create an ExpressRoute gateway](#gw), found in the preceding set of steps.
-
+==> This should send users to Step 3, not Step 4. They need to use the SET command to import the modified config file.
 ## Next steps
 
 For more information about ExpressRoute, see the [ExpressRoute FAQ](expressroute-faqs.md)
