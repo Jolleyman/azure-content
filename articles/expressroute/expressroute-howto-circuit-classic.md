@@ -179,6 +179,10 @@ This lets you know when your provider has enabled your circuit. After the circui
 	Sku                              : Standard
 	Status                           : Enabled
 
+### 6 1/2. Create an ExpressRoute Gateway
+Isn't this where we need to instruct the client to build a Gateway for the circuit?
+https://azure.microsoft.com/en-in/documentation/articles/expressroute-howto-add-gateway-classic/
+
 ### 7. Create your routing configuration
 
 Refer to the [ExpressRoute circuit routing configuration (create and modify circuit peerings)](expressroute-howto-routing-classic.md) article for step-by-step instructions.
